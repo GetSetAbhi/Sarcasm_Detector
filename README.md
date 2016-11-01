@@ -1,5 +1,5 @@
 # Sarcasm_Detector
-Detects Sarcasm In tweets 
+Academic Project based on machine learning which detects Sarcasm In tweets 
 
 # twitter handles used
 + @sarcasm_us
